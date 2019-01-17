@@ -4,6 +4,7 @@ gif/*.png
 img/*.png
 ais_map.npy
 ais_map_n.npy
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
